@@ -1,6 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de cómo podría ser el README.md para tu repositorio:
-
----
 
 # Automatización de Pruebas con Java, Maven y TestNG
 
@@ -69,6 +66,3 @@ Este proyecto fue creado por Luciana Calvi. Puedes contactarme en [mi perfil de 
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
----
-
-Asegúrate de personalizar la sección de autor y cualquier otro detalle que consideres necesario antes de agregarlo a tu repositorio. ¡Espero que te sea útil!
